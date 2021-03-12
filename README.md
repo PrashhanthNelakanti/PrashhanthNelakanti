@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrashhanthNelakanti
 - 👀 I’m interested in Java,Python coding
-- 🌱 I’m currently learning AWSA
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me prashhanth.nelakanti@gmail.com
 
